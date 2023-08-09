@@ -1,16 +1,7 @@
-# Test-Appearance-Readme
+# TeamBoom
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AF10&width=435&lines=Party+app+TeamBoom)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=49A8F7&width=435&lines=Swift+Marathon)](https://git.io/typing-svg)
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-## Title
-## -Title
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #### Contributors
 
@@ -18,6 +9,7 @@
 * [Scott Matthewman](https://github.com/scottmatthewman)
 * [Sihao Lu](https://github.com/DJBen)
 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
 ## Licence
 
