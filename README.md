@@ -12,9 +12,9 @@ TeamBoom приложение для вечеринок чтобы развле�
 - Работа с анимацией, звуками, и многим другим
 
 Участники испытания:
-- [Artem](https://github.com/Artemaj9)
-- [Ivan Lyaskovets](https://github.com/lyaskovetsiv)
-- [Daniil Kulikovskiy](https://github.com/Senior-Pomidorr)
+* [Artem](https://github.com/Artemaj9)
+* [Ivan Lyaskovets](https://github.com/lyaskovetsiv)
+* [Daniil Kulikovskiy](https://github.com/Senior-Pomidorr)
 
 TL - [pashaGriDev](https://github.com/pashaGriDev)
 
