@@ -11,3 +11,14 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+#### Contributors
+
+* Danqing Liu (me)
+* [Scott Matthewman](https://github.com/scottmatthewman)
+* [Sihao Lu](https://github.com/DJBen)
+
+
+## Licence
+
+MIT.
